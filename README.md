@@ -59,10 +59,10 @@ java Main
 
 ## Anggota Kelompok 6
 
-- Diki Aryadi (20251320003)
-- Hilal Shofar Falih (20251320037)
-- Muhamad Dani (20251320020)
-- Sesil Praya (20251320032)
+- Diki Aryadi
+- Hilal Shofar Falih
+- Muhamad Dani
+- Sesil Praya
 
 ## Mata Kuliah
 
