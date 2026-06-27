@@ -38,7 +38,7 @@ CineMax/
 ## Cara Menjalankan
 
 ### Persyaratan
-- Pastikan di laptop nya udah terinstall Java Development Kit (JDK) versi 25 atau lebih baru
+- Pastikan di laptop nya sudah terinstall Java Development Kit (JDK) versi 25 atau lebih baru
 
 ### Kompilasi dan Eksekusi
 ```bash
