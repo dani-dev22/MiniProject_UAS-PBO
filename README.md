@@ -17,6 +17,7 @@ CineMax memungkinkan pengguna untuk melihat daftar film yang sedang tayang, meme
 - **Collection** – Penggunaan `ArrayList` untuk menyimpan data kursi, tiket, dan film
 
 ## Struktur Project
+```
 CineMax/
 ├── Main.java
 ├── model/
@@ -31,7 +32,8 @@ CineMax/
 ├── interfaces/
 │   └── Printable.java
 └── exception/
-└── KursiSudahDipesanException.java
+    └── KursiSudahDipesanException.java
+```
 
 ## Cara Menjalankan
 
